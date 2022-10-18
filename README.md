@@ -1,2 +1,3 @@
-# .github
-Used to describe the organization
+# CBAProgrammers
+
+Organization that is used for testing at the moment but could become permanent if tests are good
